@@ -1,0 +1,28 @@
+@media only screen and (max-width: 768px){
+  body{
+    background-color: black;
+    color: white;
+  }
+
+  .list{
+    border: white 2px solid;
+  }
+  .gallery{
+    border: white 2px solid;
+    grid-template-columns: auto;
+  }
+
+  .location{
+    border: white 2px solid;
+  }
+
+  .links{
+    border: white 2px solid;
+  }
+
+  .image{
+    height: auto;
+    width: 100%;
+  }
+
+}
